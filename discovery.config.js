@@ -49,7 +49,7 @@ module.exports = {
 
   // Production URLs
   storeUrl: "https://dcione.vtex.app",
-  secureSubdomain: "https://www.fast.store/",
+  secureSubdomain: "https://dcione.vtex.app/",
   checkoutUrl: "https://dcione.vtexcommercestable.com.br/checkout",
   loginUrl: "https://www.fast.store/api/io/login",
   accountUrl: "https://www.fast.store/api/io/account",
