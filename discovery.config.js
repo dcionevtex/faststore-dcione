@@ -17,7 +17,7 @@ module.exports = {
 
   // Platform specific configs for API
   api: {
-    storeId: "newstore",
+    storeId: "dcione",
     workspace: "master",
     environment: "vtexcommercestable",
     hideUnavailableItems: true,
@@ -48,9 +48,9 @@ module.exports = {
   },
 
   // Production URLs
-  storeUrl: "https://www.fast.store",
+  storeUrl: "https://dcione.vtex.app",
   secureSubdomain: "https://www.fast.store/",
-  checkoutUrl: "https://www.fast.store/checkout",
+  checkoutUrl: "https://dcione.vtexcommercestable.com.br/checkout",
   loginUrl: "https://www.fast.store/api/io/login",
   accountUrl: "https://www.fast.store/api/io/account",
 
