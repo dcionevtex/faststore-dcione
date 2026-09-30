@@ -1,6 +1,7 @@
 module.exports = {
   contentSource: {
     type: 'CP',
+    project: 'dcs2',
   },
   seo: {
     title: "FastStore",
